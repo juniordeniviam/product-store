@@ -1,6 +1,16 @@
 {
-    "products": [{
-        "id": "1",
-        "title": "Produto de Teste"
-    }]
+  "products": [
+    {
+      "id": "1",
+      "title": "Produto de Teste"
+    },
+    {
+      "id": "9ab4",
+      "title": "Teste talkey"
+    },
+    {
+      "id": "469d",
+      "title": "Teste talkey2"
+    }
+  ]
 }

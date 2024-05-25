@@ -28,9 +28,11 @@ export class CreateComponent {
   });
 
   onSubmit(){
-    this.productsService.post({
+    this.productsService
+    .post({
       title: this.form.controls.title.value
-    }).subscribe(()=> {
+    })
+    .subscribe(()=> {
       this.matSnackBar.open('Produto criado com sucesso!', 'Ok');
       this.router.navigateByUrl('/');
     })

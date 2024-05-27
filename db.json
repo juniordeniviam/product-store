@@ -1,12 +1,3 @@
 {
-  "products": [
-    {
-      "title": "Produto de Teste Editado",
-      "id": "1"
-    },
-    {
-      "id": "f3f9",
-      "title": "Teste de retorno a página inicial"
-    }
-  ]
+  "products": []
 }
